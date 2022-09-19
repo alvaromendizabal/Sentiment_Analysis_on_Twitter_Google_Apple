@@ -1,0 +1,31 @@
+Our model can predict whether a tweet is neutral with 90% accuracy. 
+The only input our model requires is tweets, the tweets goes through a filtering and cleaning process 
+where all the words are broken down and put into a standard formatting such as lowercasing, lemmatizing, 
+removing of punctuations/etc.
+From there, we are able to find out the importance of each word throughout every tweet 
+and because the model has already predicted if the tweet is neutral; 
+we can tokenize and collect all the words associated with tweets predicted to be negative or positive.
+
+
+
+
+Our model takes out the guess work in determing the sentiment of a tweet. with 90% accuracy 
+apple won't be wasting time going through neutral tweets
+there are numerous applications for marketing and customer relations - retweet positive tweets - 
+like icloud coming in clutch because they’ll never run out of storage  - 
+interact with users who tweet positive things about apple - cultivate savvy twitter presence
+
+For example, we can figure out the most impactful words for a given product like iphone and marketing can match user lingo. 
+You know speak the twitterverse’s language. 
+Our work can be the foundation for an engaging and vibrant marketing campaign 
+The flipside of this is addressing negative tweets. 
+Identifying the negative tweets can foster the image rehabilitation process. 
+make it up to users who have had bad experiences
+apple will have their fingers on the pulse of the user sentiment
+Business awareness translates into healthy customer relations
+
+
+
+
+
+

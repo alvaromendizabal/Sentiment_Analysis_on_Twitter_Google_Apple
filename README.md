@@ -164,7 +164,7 @@ Below are the WordClouds for Positive and Negative Sentiment. The shape was have
 
 Below is just the overall benchmark models performance comparison between each other. We can see that Logistic Regression has performed the best amongst them.
 
-![Apple_Cloud](/images/benchmark_models_performance.png)
+![Apple_Cloud](/images/models_comparisons.png)
 
 ### Recommendations
 
